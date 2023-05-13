@@ -1,0 +1,15 @@
+Olá, este foi um projeto que desenvolvi no meu Curso Superior de ADS.
+
+A ideia é realizar um programa que leia os inputs do mouse e contabilize a atividade e inatividade do usuario e no final exporte uma planilha com estas informações. Resumindo um relógio-ponto.
+
+Eu separei a aplicação em 3 partes.
+Instalador - Usado apenas para criação das tables necessárias para a aplicação
+Contador - Apenas para quem irá utilizar o relógio-ponto
+Principal - Apenas para quem irá Administrar o sistema.
+
+Considerações:
+Este programa é apenas um projeto-teste utilizado na unidade curricular.
+Talvez ele não funcione em uma estrutura cliente-servidor, apenas P2P.
+A ideia principal é fazer ele ser cliente-servidor.
+É um projeto "Alpha"
+

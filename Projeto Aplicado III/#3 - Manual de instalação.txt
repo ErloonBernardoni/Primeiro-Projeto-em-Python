@@ -1,0 +1,15 @@
+[CRIAR OS EXECUTAVÉIS]
+
+[PARA TODOS OS MÓDULOS]
+Criar este caminho C:/WorkTimeFull/DBConfig/
+
+[SERVIDOR]
+#1º Instalar o PostgreSQL
+#2º Executar installer.exe
+
+[ADMs]
+#1º Para ADMs copiar o txt gerado no servidor e colar no caminho criado, juntamento com a package do ADM (main), lembrando que tem que jogar a pasta template lá dentro para atribuir os templates...
+
+
+[OPRs]
+#1º Para Operadores copiar o txt gerado no servidor e colar no caminho criado, juntamento com a package do Operador (counter), lembrando que tem que jogar a pasta template lá dentro para atribuir os templates...
